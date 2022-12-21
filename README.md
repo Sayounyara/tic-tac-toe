@@ -1,3 +1,3 @@
-# tictactoerefactor
+# tic-tac-toe
 
-I decided to rewrite the tic tac toe game from the mooc.fi Java Programming course to clean up the code.
+A rewrite of my previous tic tac toe game to clean up my code.
